@@ -1,0 +1,37 @@
+.one{
+	font-size:25px;
+	font-family:Footlight MT;color:white;
+	margin:5px 30px 0px 500px;
+	padding-bottom:30px;
+}
+.major{
+background-image:url('cute-background-photos-images-pink-backgrounds.jpg');
+ background-repeat:no-repeat;
+background-position:center;
+}
+
+.head{padding-top:30px;
+font-family:Engravers MT;
+margin:30px 20px 40px 480px;}
+
+.sub{ 
+background-image:url('White-Gradient-Squares-Seamless-Patterns-For-Website-Backgrounds.jpg');
+ background-repeat:no-repeat;
+background-position:center;
+background-size: cover;margin-top:0px;}
+
+.bottom{
+	background-image:url('iletisim.png');
+	background-repeat:no-repeat;
+	background-position:center;
+
+margin-top:0px;
+}
+.heading{
+	margin:20px 20px 30px 473px;
+	font-size:40px;
+font-family:Engravers MT;}
+form{
+font-size:20px;
+margin:13px 20px 30px 530px;
+}
